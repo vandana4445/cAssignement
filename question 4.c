@@ -2,7 +2,7 @@
 
 int main() {
     // Write a program to print \n and \r on the screen.
-    //tanishaSingh
+    //vanadanachaturvedi
     printf("\\n\n");
     printf("\\r\n");
     return 0;
